@@ -57,9 +57,10 @@ Hello 👋, I'm Dmitry Berilskiy!</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img src="https://cdn.simpleicons.org/git/181717" height="40" alt="git logo" />
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo" />
+  <img src="https://cdn.simpleicons.org/figma/181717" height="40" alt="figma logo" />
 </div>
 
-###
+
 
 <h3 align="left">🔥   Моя статистика :</h3>
 
