@@ -54,8 +54,9 @@ Hello 👋, I'm Dmitry Berilskiy!</h1>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img src="https://cdn.simpleicons.org/git/181717" height="40" alt="git logo" />
-<img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo" />
 </div>
 
 ###
@@ -63,13 +64,6 @@ Hello 👋, I'm Dmitry Berilskiy!</h1>
 <h3 align="left">🔥   Моя статистика :</h3>
 
 ###
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com/?user=Berlinskiy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-
-</div>
-
 
 ###
 
